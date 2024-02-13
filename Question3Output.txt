@@ -1,0 +1,2 @@
+2 3
+2 // the value of x is 2 
